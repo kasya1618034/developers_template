@@ -1,0 +1,30 @@
+/* Global */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Header */
+/* Hero */
+/* Houses */
+/* Location */
+/* About-developer */
+/* Gallery */
+/* Contact */
+/* Footer */
