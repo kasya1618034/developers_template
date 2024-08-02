@@ -20,6 +20,14 @@ a {
     cursor: pointer;
 }
 
+button {
+    cursor: pointer;
+}
+
+.container {
+    margin: 0 auto;
+}
+
 /* Header */
 /* Hero */
 /* Houses */
